@@ -1,0 +1,6 @@
+com\configurations\demo\entity\Student.class
+com\configurations\demo\exception\StudentRestExceptionHandler.class
+com\configurations\demo\controller\DemoController.class
+com\configurations\demo\exception\StudentNotFoundException.class
+com\configurations\demo\exception\StudentErrorResponse.class
+com\configurations\demo\DemoApplication.class
